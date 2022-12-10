@@ -2,6 +2,7 @@ baseURL: https://chapter-02-03.hugoinaction.com
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
+enableEmoji: true
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -10,6 +11,11 @@ author:
   location: New York 
   phone: (999) 999-9999 
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET" 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 menu:
   main: 
