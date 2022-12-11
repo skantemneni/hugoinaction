@@ -2,7 +2,7 @@ baseURL: https://chapter-02-03.hugoinaction.com
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
-enableEmoji: true
+
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -16,6 +16,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+highlight:
+lineNos: true      
+
+enableEmoji: true
 
 menu:
   main: 
