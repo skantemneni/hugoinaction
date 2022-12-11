@@ -2,6 +2,8 @@
 
 Last updated __August 19, 2019__
 
+## <span style="color: blue;">This is highlighted</span> {style="background: yellow"}
+
 Thank you for <span style="color: red;">choosing to be part of our community</span> at *Acme Corporation &trade;* (_“Company”_, *“we”*, _“us”_, or *“our”*). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice or our practices with regard to your personal information, please contact us at [this email address](contact@example.org).
 
 When you visit our website -- https://hugoinaction.com and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy notice. We seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue the use of our Sites and our services.
