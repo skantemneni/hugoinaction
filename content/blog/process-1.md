@@ -1,6 +1,7 @@
 ---
 title: Our Manufacturing Process Part I
 date: "2019-01-01T00:00:00Z"
+series: [manufacturing]
 ---
 Machining is any of various processes in which a piece of raw material is cut into a desired final shape and size by a controlled material-removal process. The processes that have this common theme, controlled material removal, are today collectively known as subtractive manufacturing,[1] in distinction from processes of controlled material addition, which are known as additive manufacturing. Exactly what the "controlled" part of the definition implies can vary, but it almost always implies the use of machine tools (in addition to just power tools and hand tools).
 
@@ -15,3 +16,6 @@ Since the advent of new technologies in the post–World War II era, such as ele
 In the decades of the 2000s and 2010s, as additive manufacturing (AM) evolved beyond its earlier laboratory and rapid prototyping contexts and began to become common throughout all phases of manufacturing, the term subtractive manufacturing became common retronymously in logical contrast with AM, covering essentially any removal processes also previously covered by the term machining. The two terms are effectively synonymous, although the long-established usage of the term machining continues. This is comparable to the idea that the verb sense of contact evolved because of the proliferation of ways to contact someone (telephone, email, IM, SMS, and so on) but did not entirely replace the earlier terms such as call, talk to, or write to.
 
 Content from [wikipedia](https://en.wikipedia.org/wiki/Machining).
+
+
+{{% productInfo %}}
